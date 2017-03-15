@@ -1,6 +1,10 @@
 {
   "name": "jest-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "css transfrom for jest",
+  "repository": "gutenye/jest-css",
+  "author": "Guten Ye <ywzhaifei@gmail.com>",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["jest", "jest-transform"]
 }
