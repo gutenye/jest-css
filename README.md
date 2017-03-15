@@ -16,3 +16,7 @@ $ yarn add --dev jest-css
     }
   }
 ```
+
+# Related Projects
+
+- [jest-file](https://github.com/gutenye/jest-file): file transform for jest
